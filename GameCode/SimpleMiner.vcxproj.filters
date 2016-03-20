@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GameCode">
+      <UniqueIdentifier>{b0fb082a-77de-47bb-9fb5-32f19e7ac476}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Win32.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+    <ClCompile Include="TheApp.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Chunk.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockDefinition.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>GameCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TheApp.hpp">
+      <Filter>GameCode</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.hpp">
+      <Filter>GameCode</Filter>
+    </ClInclude>
+    <ClInclude Include="Chunk.hpp">
+      <Filter>GameCode</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockDefinition.hpp">
+      <Filter>GameCode</Filter>
+    </ClInclude>
+    <ClInclude Include="World.hpp">
+      <Filter>GameCode</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\ReadMe.txt" />
+  </ItemGroup>
+</Project>

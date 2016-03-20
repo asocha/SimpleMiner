@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "..\..\..\Engine\Engine.vcxproj", "{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleMiner", "SimpleMiner.vcxproj", "{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugInline|Win32 = DebugInline|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.Debug|Win32.Build.0 = Debug|Win32
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.DebugInline|Win32.ActiveCfg = DebugInline|Win32
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.DebugInline|Win32.Build.0 = DebugInline|Win32
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.Release|Win32.ActiveCfg = Release|Win32
+		{9ECD80BF-9EE5-4D54-A1D0-DE9BAE65431B}.Release|Win32.Build.0 = Release|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.Debug|Win32.Build.0 = Debug|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.DebugInline|Win32.ActiveCfg = DebugInline|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.DebugInline|Win32.Build.0 = DebugInline|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.Release|Win32.ActiveCfg = Release|Win32
+		{DAC178BE-190E-41E9-84CB-F7C8771F6FCE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
